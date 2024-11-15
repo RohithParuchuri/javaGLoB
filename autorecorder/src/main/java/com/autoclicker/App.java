@@ -40,7 +40,6 @@ public class App {
     }
     public static void runRest()
     {
-        System.out.println("Bruh working");
         ClickData.printData();
     }
 }
